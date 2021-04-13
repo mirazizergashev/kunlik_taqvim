@@ -1,0 +1,11 @@
+node_modules/
+
+*.zip
+
+*.rar
+
+*.xlsx
+
+*.png
+
+public/1
