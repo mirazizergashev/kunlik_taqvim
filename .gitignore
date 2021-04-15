@@ -1,5 +1,6 @@
 node_modules/
 
+
 *.zip
 
 *.rar
@@ -8,4 +9,4 @@ node_modules/
 
 *.png
 
-public/
+public
