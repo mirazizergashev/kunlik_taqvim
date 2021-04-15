@@ -6,6 +6,6 @@ node_modules/
 
 *.xlsx
 
-*.pngq
+*.png
 
-publicq/
+public/
